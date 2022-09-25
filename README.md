@@ -116,6 +116,10 @@
 <details>
 <summary>조건문</summary>
 <div markdown="1">
+  <h3>불 자료형과 if 조건문</h3>
+  <ul>
+    <li><code>if (9 <= x <= 12):</code>와 같이 작성하면 연속적으로 조건을 검사할 수 있습니다.</li>
+  </ul>
 </div>
 </details>
 <details>
