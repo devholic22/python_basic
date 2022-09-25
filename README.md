@@ -123,6 +123,8 @@
   <h3>if-else와 elif 구문</h3>
   <ul>
     <li><code>if-elif-else</code>를 사용할 때 else가 꼭 필요한 것은 아닙니다.</li>
+    <li>None, 0, 0.0, 빈 컨테이너는 모두 False로 변환되고, 나머지 경우는 True로 변환됩니다.</li>
+    <li><code>pass</code> 키워드를 사용하면 특정 조건에서 아무것도 안 함을 표시할 수 있습니다.</li>
   </ul>
 </div>
 </details>
