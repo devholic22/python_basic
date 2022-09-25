@@ -120,6 +120,10 @@
   <ul>
     <li><code>if (9 <= x <= 12):</code>와 같이 작성하면 연속적으로 조건을 검사할 수 있습니다.</li>
   </ul>
+  <h3>if-else와 elif 구문</h3>
+  <ul>
+    <li><code>if-elif-else</code>를 사용할 때 else가 꼭 필요한 것은 아닙니다.</li>
+  </ul>
 </div>
 </details>
 <details>
